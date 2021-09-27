@@ -43,6 +43,9 @@ p {
 }
 
 /* Navigation Bar */
+.navbar navbar-expand-lg navbar-dark{
+  position:fixed;
+}
 
 .navbar {
   padding: 0 0 4.5rem;
